@@ -1,4 +1,4 @@
-package br.com.caelum;
+package br.com.dac;
 
 public class Mensagens {
 	public static void main(String[] args) {
